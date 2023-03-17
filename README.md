@@ -14,3 +14,21 @@ of the printer the cups container needs to be stopped and restarted for it to re
 i implemeneted this thru a ubuntu headless vm and run this script using UserScript every minute
 
 i know this is not a perfect solution but this works for me.
+
+
+March 18,2023 
+Made improvement on the script like VM detection if running
+Also Made a Docker Variant for Docker Implementation 
+
+of course i recommend the docker implementation because it is yes docker lol
+
+
+
+Date	Changes Made
+2023-03-18	Improved script with VM detection
+Added Docker variant for implementation
+2023-03-15	Initial commit
+Implemented script for Ubuntu headless VM
+Implemented UserScript to run every minute
+Added problem statement and solution
+This table shows the date of the changes made and a brief description of
